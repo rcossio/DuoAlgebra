@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the real part of the complex number $z = 4 + 3i$?",
+    "options": [
+      {"letter": "A", "text": "3"},
+      {"letter": "B", "text": "4"},
+      {"letter": "C", "text": "7"},
+      {"letter": "D", "text": "12"}
+    ],
+    "answer": "B",
+    "explanation": "The real part of a complex number is the coefficient of the real unit, which in this case is 4."
+  },
+  {
+    "question": "What is the imaginary part of the complex number $w = -2i$?",
+    "options": [
+      {"letter": "A", "text": "0"},
+      {"letter": "B", "text": "-1"},
+      {"letter": "C", "text": "-2"},
+      {"letter": "D", "text": "2"}
+    ],
+    "answer": "C",
+    "explanation": "The imaginary part of a complex number is the coefficient of the imaginary unit, which in this case is -2i."
+  },
+  {
+    "question": "What is the conjugate of the complex number $z = 2 - 5i$?",
+    "options": [
+      {"letter": "A", "text": "$2 + 5i$"},
+      {"letter": "B", "text": "$2 - 5i$"},
+      {"letter": "C", "text": "$-2 + 5i$"},
+      {"letter": "D", "text": "$-2 - 5i$"}
+    ],
+    "answer": "A",
+    "explanation": "The conjugate of a complex number is obtained by changing the sign of the imaginary part, so the conjugate of $2 - 5i$ is $2 + 5i$."
+  },
+  {
+    "question": "What is the modulus of the complex number $z = 3 + 4i$?",
+    "options": [
+      {"letter": "A", "text": "3"},
+      {"letter": "B", "text": "4"},
+      {"letter": "C", "text": "5"},
+      {"letter": "D", "text": "7"}
+    ],
+    "answer": "C",
+    "explanation": "The modulus (or absolute value) of a complex number $z = a + bi$ is given by $\\sqrt{a^2 + b^2}$. In this case, the modulus is $\\sqrt{3^2 + 4^2} = 5$."
+  },
+  {
+    "question": "What is the argument of the complex number $z = -1 + \\sqrt{3}i$ in radians?",
+    "options": [
+      {"letter": "A", "text": "$\\frac{\\pi}{6}$"},
+      {"letter": "B", "text": "$\\frac{\\pi}{3}$"},
+      {"letter": "C", "text": "$\\frac{\\pi}{2}$"},
+      {"letter": "D", "text": "$\\pi$"}
+    ],
+    "answer": "B",
+    "explanation": "The argument (or angle) of a complex number $z = r(\\cos(\\theta) + i\\sin(\\theta))$ is given by $\\theta$. In this case, the argument is $\\frac{\\pi}{3}$."
+  }
+]
